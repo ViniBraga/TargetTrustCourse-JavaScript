@@ -1,0 +1,2 @@
+1 - chrome://apps/
+2 - chrome-extension://hgmloofddffdnphfgcellkdfbfbjeloo/RestClient.html

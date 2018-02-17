@@ -1,0 +1,27 @@
+s = 'teste';
+n1 = 42;
+n2 = 1.8;
+b = true;
+
+obj = { //type Object é JSON
+	titulo: "JS Avançado",
+	turno: "Manhã",
+	matricular: function(){
+    return "Funcionou";
+	}
+};
+
+a = [];
+
+var u;
+v = null;
+
+//---------------------------
+
+console.log(obj.titulo);
+//ou
+console.log(obj["titulo"]);
+
+console.log(obj.matricular());
+
+console.table(obj);

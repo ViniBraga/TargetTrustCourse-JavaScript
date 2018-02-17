@@ -1,0 +1,165 @@
+Sobre as referências bibliográficas
+
+Nota
+Todo o conteúdo e correlatos sendo disponibilizado através da licença Apache 2.0 e traduzido com auxílio de <http://translate.google.com.br> com posterior revisão.
+
+Fontes
+Documentação oficial
+Disponível em: <http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf>.
+Acesso em: 10 abril 2014.
+
+Javascript Furtivo
+Disponível em: <http://ericdouglas.github.io/2014/04/15/13-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-01/>
+Acesso em: 17 maio 2014.
+
+Entendendo Arrays no JavaScript
+Disponível em: <http://imasters.com.br/artigo/21197/javascript/entendendo-arrays-no-javascript/>
+Acesso em: 17 maio 2014.
+
+Array
+Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array>
+Acesso em: 17 maio 2014.
+
+The Javascript Reference Series
+Disponível em: <http://www.hunlock.com/blogs/Mastering_Javascript_Arrays>
+Acesso em: 17 maio 2014.
+
+How ECMAScript 5 still does not allow to subclass array
+Disponível em: <http://perfectionkills.com/how-ecmascript-5-still-does-not-allow-to-subclass-an-array/>
+Acesso em: 17 maio 2014.
+
+Date
+Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date>
+Acesso em: 17 maio 2014.
+
+Objetos Literais
+Disponível em: <http://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/>
+Acesso em: 17 maio 2014.
+
+json and jsonp
+Disponível em: <http://javascriptweblog.wordpress.com/2010/11/29/json-and-jsonp/>
+Acesso em: 17 maio 2014.
+
+AJAX
+Disponível em: <https://developer.mozilla.org/pt-BR/docs/AJAX/Getting_Started>
+Acesso em: 17 maio 2014.
+
+CORS
+Disponível em: <https://imasters.com.br/front-end/javascript/cross-origin-ajax-com-cors/>
+Acesso em: 17 maio 2014.
+
+CORS
+Disponível em: <http://www.html5rocks.com/en/tutorials/cors/>
+Acesso em: 17 maio 2014.
+
+Cross-Origin Resource Sharing
+Disponível em: <http://www.w3.org/TR/cors/>
+Acesso em: 17 maio 2014.
+
+Cross-domain Ajax with Cross-Origin Resource Sharing
+Disponível em: <http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/>
+Acesso em: 17 maio 2014.
+
+Tratamento de exceções em JavaScript
+Disponível em: <http://templecoding.com/blog/2012/12/14/tratamento-de-excecoes-em-javascript/>
+Acesso em: 17 maio 2014.
+
+Ducktyping
+Disponível em: <https://en.wikipedia.org/wiki/Duck_typing>
+Acesso em: 17 maio 2014.
+
+Duck Typing
+Disponível em: <http://designpepper.com/blog/drips/using-duck-typing-to-avoid-conditionals-in-javascript>
+Acesso em: 17 maio 2014.
+
+Introdução ao JavaScript Orientado a Objeto
+Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript>
+Acesso em: 17 maio 2014.
+
+Introdução ao JavaScript Orientado a Objeto
+Disponível em: <http://javascriptbrasil.com/category/javascript-2/>
+Acesso em: 17 maio 2014.
+
+Functions no Javascript
+Disponível em: <https://brunosouza.org/functions-no-javascript/>
+Acesso em: 17 maio 2014.
+
+Closures
+Disponível em: <http://javascriptbrasil.com/2013/10/12/entenda-closures-no-javascript-com-facilidade/>
+Acesso em: 17 maio 2014.
+
+Variáveis em Javascript
+Disponível em: <http://pablogravielseo.com/blog/pt-br/javascript/variaveis.html>
+Acesso em: 17 maio 2014.
+
+Vazamento de memória em JavaScript
+Disponível em: <http://loopinfinito.com.br/2013/04/19/vazamento-de-memoria-em-javascript/>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://diveintohtml5.com.br/history.html>
+Acesso em: 17 maio 2014.
+
+TITULO
+Disponível em:<http://tableless.com.br/html5/>
+Acesso em: 17 maio 2014.
+
+
+Especificação Web Workers (link em inglês)
+TITULO
+Disponível em:<http://www.whatwg.org/specs/web-apps/current-work/multipage/workers.html>
+Acesso em: 17 maio 2014.
+
+
+"Using web workers" ("Como usar os web workers", link em inglês) da Rede de Desenvolvedores do Mozilla.
+Disponível em:<https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers>
+Acesso em: 17 maio 2014.
+
+
+"Web Workers rise up!" ("Web Workers, uni-vos", link em inglês) na Dev.Opera
+Disponível em:<http://dev.opera.com/articles/web-workers-rise-up/>
+Acesso em: 17 maio 2014.
+
+TITULO
+Disponível em:<http://tableless.com.br/html5/?chapter=7>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://tableless.com.br/primeiros-passos-com-node-js/>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://revistaw.com.br/opiniao/o-poder-de-uma-boa-historia/>
+Acesso em: 17 maio 2014.
+
+TITULO
+Disponível em:<http://devlog.waltercruz.com/closures>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://blog.morrisjohns.com/javascript_closures_for_dummies>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://javascriptbrasil.com/2013/10/12/entenda-closures-no-javascript-com-facilidade/>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://tableless.com.br/acelere-o-carregamento-de-suas-paginas/>
+Acesso em: 17 maio 2014.
+
+
+TITULO
+Disponível em:<http://tableless.com.br/modularizacao-em-javascript/>
+Acesso em: 17 maio 2014.
